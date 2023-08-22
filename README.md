@@ -3,6 +3,7 @@ About r-blaster-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-blaster-feedstock/blob/main/LICENSE.txt)
 
+
 About r-blaster
 ---------------
 
@@ -11,6 +12,7 @@ Home: https://github.com/manutamminen/blaster
 Package license: BSD-3-Clause
 
 Summary: Implementation of an efficient BLAST-like sequence comparison algorithm, written in C++11 and using native R datatypes. Blaster is based on 'nsearch' - Schmid et al 2018; <doi:10.1101/399782>.
+
 About r-blaster
 ---------------
 
